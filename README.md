@@ -19,7 +19,6 @@ Berikut adalah contoh spesifikasi API sederhana menggunakan style REST:
                   "code"  : "integer",
                   "name"  : "string",
                   "year"  : "integer|string",
-                  "source": "BPS",
                   "parent": "integer"
                 },
                 "geometry": {
