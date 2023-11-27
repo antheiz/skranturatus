@@ -7,9 +7,9 @@ app = Flask(__name__)
 
 db_config = {
     "host": "mysql",
-    "user": "root",
-    "password": "salupa",
-    "database": "webgis",
+    "user": "admin",
+    "password": "rahasia",
+    "database": "web-gis",
 }
 
 
