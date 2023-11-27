@@ -57,8 +57,8 @@ def create_geojson(features):
 
 
 @app.route("/")
-def regency_map():
-    return render_template("regency_map.html")
+def index():
+    return render_template("index.html")
 
 
 # @app.route("/api/provinces")
